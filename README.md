@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @468SiliconWP445
-- 👀 I’m interested in computer programming
+- 👀 I’m learning Java
